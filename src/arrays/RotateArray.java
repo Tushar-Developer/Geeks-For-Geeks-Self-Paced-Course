@@ -9,6 +9,7 @@ public class RotateArray {
 
         rotateTheArrayByD(arr, d);
 
+        // Ouput the Array
         for (int i = 0; i < arr.length; i++){
             System.out.print(arr[i]+" "); //3 4 5 6 7 8 1 2
         }
