@@ -1,0 +1,1 @@
+WST -> Window Sliding Technique
